@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings (VS Code)
+.vscode/
+
+# Local database files or uploaded documents (αν αποθηκεύονται τοπικά)
+uploaded_docs/
+*.sqlite3
+*.db
